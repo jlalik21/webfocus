@@ -3,7 +3,7 @@
 	<pgx-meta>
 		<pgx-version>1.3</pgx-version>
 		<pgx-mode>MODE_ASSEMBLE</pgx-mode>
-		<pgx-hash>559b6a22df8ff1ae87e420da109917ffca53b154</pgx-hash>
+		<pgx-hash>5705df7f9bd64516c1ee8f3fb650e059e9f90e0e</pgx-hash>
 	</pgx-meta>
 	<string-file src="page.prop?IBFS_format=pgx"/>
 	<strings></strings>
@@ -29,9 +29,9 @@
 		</markup-block>
 		<markup-block>
 			<div class="pd-internal-stylesheet">
-												.page-placeholder{margin-left: 20px;}&gt;&gt;&gt;&gt;&gt;
-											&gt;
-						</div>
+																.page-placeholder{margin-left: 20px;}&gt;&gt;&gt;&gt;&gt;
+															&gt;
+									</div>
 			<!--endis-->
 			<div class="pd-tzo"></div>
 		</markup-block>
