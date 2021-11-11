@@ -3,7 +3,7 @@
     <properties size="8">
         <entry key="ChartType" value="Bar_Stacked"/>
         <entry key="InsightDesigner" value="true"/>
-        <entry key="LastDescribed" value="1636669773526"/>
+        <entry key="LastDescribed" value="1636670802862"/>
         <entry key="OutputFormat" value="JSCHART"/>
         <entry key="bucketSyntax" value="true"/>
         <entry key="masters" value="&quot;retail_samples/wf_retail_lite"/>
